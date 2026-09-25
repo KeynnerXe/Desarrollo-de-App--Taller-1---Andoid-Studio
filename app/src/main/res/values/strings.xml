@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Finanzas Básicas</string>
+
+    <!-- Pantalla de Inicio -->
+    <string name="titulo_inicio">Taller Financiero</string>
+    <string name="subtitulo_inicio">Selecciona la herramienta que deseas utilizar:</string>
+    <string name="btn_convertidor">Abrir Convertidor de Moneda</string>
+    <string name="btn_calculadora">Abrir Calculadora de Créditos</string>
+    <string name="autor_info">Desarrollado para Taller de Android Studio</string>
+
+    <!-- Pantalla Convertidor -->
+    <string name="titulo_convertidor">Convertidor de Moneda</string>
+    <string name="hint_monto">Ingresa el monto a convertir</string>
+    <string name="label_moneda_origen">Moneda de origen:</string>
+    <string name="label_moneda_destino">Moneda de destino:</string>
+    <string name="moneda_pesos">Pesos (COP)</string>
+    <string name="moneda_dolares">Dólares (USD)</string>
+    <string name="btn_convertir">Convertir</string>
+    <string name="resultado_convertidor_default">Resultado: $0.00</string>
+    <string name="tasa_info">Tasa fija de referencia: 1 Dólar = 4,000 Pesos</string>
+
+    <!-- Pantalla Calculadora de Crédito -->
+    <string name="titulo_calculadora">Calculadora de Créditos</string>
+    <string name="hint_monto_credito">Valor del crédito (Ej: 1000000)</string>
+    <string name="hint_cuotas">Número de cuotas mensuales (Ej: 12)</string>
+    <string name="hint_interes">Porcentaje de interés mensual % (Ej: 2.5)</string>
+    <string name="btn_calcular_credito">Calcular Crédito</string>
+    <string name="resultado_cuota">Valor de cuota: $0.00</string>
+    <string name="resultado_total">Valor total del crédito: $0.00</string>
+    <string name="resultado_ganancia">Ganancia total (Intereses): $0.00</string>
+
+    <!-- Validaciones / Mensajes -->
+    <string name="error_campo_monto">Por favor ingresa un monto válido</string>
+    <string name="error_campos_vacios">Por favor completa todos los campos del crédito</string>
+    <string name="error_cuotas_cero">El número de cuotas debe ser mayor a 0</string>
+    <string name="error_valores_positivos">Los valores ingresados deben ser mayores a 0</string>
+</resources>

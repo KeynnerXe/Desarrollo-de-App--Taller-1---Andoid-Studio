@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Minimalist Monochromatic Theme Colors -->
+    <color name="primary">#18181B</color>
+    <color name="primary_variant">#09090B</color>
+    <color name="secondary">#27272A</color>
+    <color name="secondary_variant">#18181B</color>
+    <color name="accent_gold">#71717A</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_light">#FAFAFA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="divider_color">#E4E4E7</color>
+    <color name="border_subtle">#E4E4E7</color>
+
+    <!-- Typography Colors -->
+    <color name="text_primary">#18181B</color>
+    <color name="text_secondary">#52525B</color>
+    <color name="text_muted">#71717A</color>
+
+    <!-- Subtle States -->
+    <color name="color_success">#15803D</color>
+    <color name="color_success_bg">#F0FDF4</color>
+    <color name="color_info_bg">#F4F4F5</color>
+    <color name="color_info_border">#E4E4E7</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

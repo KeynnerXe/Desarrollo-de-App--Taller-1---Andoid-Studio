@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas Básicas",
+  "description": "Aplicación académica con Convertidor de Moneda y Calculadora de Créditos desarrollada en Java con vistas XML clásicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
